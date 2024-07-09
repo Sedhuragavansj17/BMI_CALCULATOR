@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator https://sedhuragavansj17.github.io/BMI_CALCULATOR/
 
 This repository contains a simple yet efficient Body Mass Index (BMI) Calculator. The BMI Calculator is designed to help users easily calculate their BMI based on their weight and height inputs. The calculator supports both metric and imperial units.
 
